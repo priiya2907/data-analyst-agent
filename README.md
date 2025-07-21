@@ -1,4 +1,6 @@
 📊 Data Analyst Agent 🤖
+
+
 This is a simple but powerful API that behaves like a data analyst. It can read questions written in plain English, fetch or process the right dataset, perform the required analysis, and return the answer — even as a plot — all within 3 minutes.
 
 This project was built for the TDS Data Analyst Agent Challenge.
