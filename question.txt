@@ -1,0 +1,4 @@
+How many $2 bn movies were released before 2020?
+Which is the earliest film that grossed over $1.5 bn?
+What's the correlation between the Rank and Peak?
+Draw a scatterplot of Rank and Peak...
